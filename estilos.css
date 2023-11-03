@@ -1,0 +1,61 @@
+body {
+    padding:30px;
+  }
+  
+  td.bit {
+    border:1px solid black;
+    width:50px;
+    height:50px;
+    cellspacing:5px;
+    cellpadding:5px;
+    text-align:center;
+    font-size:30px;
+    background-color:#e3e3e3;
+  }
+  
+  td.space {
+    border-top=none;
+    border-bottom=none; 
+    width:30px;
+    height:60px;
+    cellspacing:5px;
+    cellpadding:5px;
+    text-align:center;
+    font-size:40px;
+  }
+  
+  .ip {
+    font-size:60px;
+    font-weight:600;
+    text-align:center;
+  }
+     
+  .activa {
+    background-color:#B5F9B3!important;
+  }
+  
+  .inactiva {
+    background-color:#e3e3e3;
+  }
+  
+  .mactiva {
+    background-color:#FDEBD0!important;
+  }
+  
+  .minactiva {
+    background-color:#d2d2d2;
+  }
+  
+  .valores {
+    text-align:center;
+    font-size:14px;
+    color:#666;
+  }
+  
+  .oculto{
+    display:none;
+  }
+  
+  .visible {
+    display:block;
+  }
